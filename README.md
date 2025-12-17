@@ -20,11 +20,12 @@ I find it fun since my goal isn't actually to learn more about Python but to fin
 
 | Dia | Parte 1 | Parte 2 |
 |-----|---------|---------|
-| 01  | ⭐      | ⭐      |
-| 02  | ⭐      | ⭐      |
-| 03  | ⭐      |         |
-| 04  |         |         |
-| 05  |         |         |
+| 01  | ⭐      | ⭐     |
+| 02  | ⭐      | ⭐     |
+| 03  | ⭐      | ⭐     |
+| 04  | ⭐      | ⭐     |
+| 05  | ⭐      | ⭐     |
+| 06  | ...     | ...     |
 | ... | ...     | ...     |
 
 
